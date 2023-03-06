@@ -17,12 +17,12 @@ Active Directory is a core tool for System Administrators that need to manage Wi
 
 <p align="center">
 The Active Directory Administrative Center is your main page. It allows you to manage your Active Directory installation, by configuring users, groups, computers, and more.<br/>
-<img src="https://github.com/Rastallworth1/Malware-Trouble-Shooting/blob/main/Screenshot%20disk%20clean%20up.jpg"/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/AD%20Home.png"/>
 <br />
 
 
 <br />
-Check for any suspicious programs that may have been recently installed. Go to the control panel and select Programs and Features. Verify that everything looks normal and remove any suspicious programs.   <br/>
+For this home lab, we want to create a new user called Reggie. First click on the example (local) entry. This is the entry for the domain that your account can manage. Next scroll down and double click on the Users entry to see the list of users and groups that currently exist.<br/>
 <img src="https://github.com/Rastallworth1/Malware-Trouble-Shooting/blob/main/Troubleshooting_Programs%20and%20Feat.jpg"/>
 <br />
 <img src="https://github.com/Rastallworth1/Malware-Trouble-Shooting/blob/main/Remove%20program.jpg"/>
