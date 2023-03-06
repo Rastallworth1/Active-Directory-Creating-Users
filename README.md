@@ -29,12 +29,12 @@ For this home lab, we want to create a new user called Reggie. First, click on t
 
 <br />
 Now, lets create a new user. First, take a look at the tasks list on the right. Under the Users section, there's a New menu entry, which opens a submenu to select what's the type of entity that you want to create. In this case, we want to create a new user, so click User. <br/>
-<img src="https://github.com/Rastallworth1/Malware-Trouble-Shooting/blob/main/offline%20scan.jpg"/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%203.png"/>
 <br />
 
 
 <br />
-Go to your System Restore Point. ** DO NOT restore your device ** Malware creators are aware of restore points and can create Malware to affect System Restore Points. It is better to remove System Restore Points. Type "create a restore point" in the system menu and open it. Click on configure, disable system protection, and delete the restore point. Once the issue is resolved, create a new restore point.  <br/>
+This will open a new window that lets you fill in a number of fields related to the new user. There are numerous fields available, but only a couple are mandatory, which are marked with a read star. You can leave the rest empty. The user that we are creating is called Reggie, with their username being also Reggie.<br/>
 <img src="https://github.com/Rastallworth1/Malware-Trouble-Shooting/blob/main/Restore%20Point.jpg"/>
 <br />
 
