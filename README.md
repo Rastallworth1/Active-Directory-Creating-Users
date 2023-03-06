@@ -45,7 +45,7 @@ This will open a new window that lets you fill in a number of fields related to 
 
 <br />
 Once you click on the newly created account, you will see that where it displays the name of the user, the system says Reggie (Disabled).  <br/>
-<img src="https://github.com/Rastallworth1/Malware-Trouble-Shooting/blob/main/Reset%20Browser.jpg"/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%205.png"/>
 <br />
 
 
