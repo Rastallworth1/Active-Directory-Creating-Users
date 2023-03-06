@@ -1,9 +1,9 @@
-<h1>Removal of Malware from PC</h1>
+<h1>Active Directory: Creating Users</h1>
 
 
 
 <h2>Description</h2>
-This project consists of a simple removal of malware using some basic troubleshooting steps. In this instance, the user was browsing the web and started to notice reduced performance and a lot of pop-ups. Below are some of the basic troubleshooting steps that were used to remove the Malware.
+Active Directory is a core tool for System Administrators that need to manage Windows machines. In this project we created a new user called Reggie and enabled his account.
 <br />
 
 
@@ -11,12 +11,12 @@ This project consists of a simple removal of malware using some basic troublesho
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11 Pro</b> 
+- <b>Windows Server 19</b> 
 
-<h2>Troubleshooting walk-through:</h2>
+<h2>Creating a new user:</h2>
 
 <p align="center">
-Launch the disk cleanup utility. This is always a good place to start. It allows you to delete any Temporary Files or Temporary Internet Files. Malware can hide in your temperary files and start infecting your device. <br/>
+The Active Directory Administrative Center is your main page. It allows you to manage your Active Directory installation, by configuring users, groups, computers, and more.<br/>
 <img src="https://github.com/Rastallworth1/Malware-Trouble-Shooting/blob/main/Screenshot%20disk%20clean%20up.jpg"/>
 <br />
 
