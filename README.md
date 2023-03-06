@@ -35,12 +35,16 @@ Now, lets create a new user. First, take a look at the tasks list on the right. 
 
 <br />
 This will open a new window that lets you fill in a number of fields related to the new user. There are numerous fields available, but only a couple are mandatory, which are marked with a read star. You can leave the rest empty. The user that we are creating is called Reggie, with their username being also Reggie.<br/>
-<img src="https://github.com/Rastallworth1/Malware-Trouble-Shooting/blob/main/Restore%20Point.jpg"/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%204.png"/>
 <br />
+<br />Once you've entered the necessary information, click the OK button to create the user (Reggie). 
+<br/>
+
+
 
 
 <br />
-Reset your browser setting. In some cases, Malware could infect your browser setting and redirect you to a malicious site that could re-infect your system. In Google Crome, click on the menu button, then settings. On the left side, select the reset and cleanup option and pick restore setting to their orginal defaults.  <br/>
+Once you click on the newly created account, you will see that where it displays the name of the user, the system says Reggie (Disabled).  <br/>
 <img src="https://github.com/Rastallworth1/Malware-Trouble-Shooting/blob/main/Reset%20Browser.jpg"/>
 <br />
 
