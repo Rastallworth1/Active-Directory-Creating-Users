@@ -23,7 +23,7 @@ The Active Directory Administrative Center is your main page. It allows you to m
 
 <br />
 For this home lab, we want to create a new user called Reggie. First click on the example (local) entry. This is the entry for the domain that your account can manage. Next scroll down and double click on the Users entry to see the list of users and groups that currently exist.<br/>
-<img src="https://github.com/Rastallworth1/Malware-Trouble-Shooting/blob/main/Troubleshooting_Programs%20and%20Feat.jpg"/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%202.png"/>
 <br />
 <img src="https://github.com/Rastallworth1/Malware-Trouble-Shooting/blob/main/Remove%20program.jpg"/>
 <br />
