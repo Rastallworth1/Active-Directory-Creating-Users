@@ -66,6 +66,12 @@ You can set a password using the Reset password menu option. This will allow the
 <br />
 
 
+  
+<br />
+Once you've set a strong password, you can retry enabling the account. This time it should work.. <br/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%207%20top.png"/>
+<br />
+
 
 
 <br />
