@@ -16,7 +16,7 @@ Active Directory is a core tool for System Administrators that need to manage Wi
 <h2>Creating a new user:</h2>
 
 <p align="center">
-The Active Directory Administrative Center is your main page. It allows you to manage your Active Directory installation, by configuring users, groups, computers, and more.<br/>
+The Active Directory Administrative Center is your main page. It allows you to manage your Active Directory installation, by configuring users, groups, computers, and more. In this instance, we will create a new user account.<br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/AD%20Home.png"/>
 <br />
 
@@ -34,7 +34,7 @@ Now, lets create a new user. First, take a look at the tasks list on the right. 
 
 
 <br />
-This will open a new window that lets you fill in a number of fields related to the new user. There are numerous fields available, but only a couple are mandatory, which are marked with a read star. You can leave the rest empty. The user that we are creating is called Reggie, with their username being also Reggie.<br/>
+This will open a new window that lets you fill in a number of fields related to the new user. There are numerous fields available, but only a few are mandatory, which are marked with a read asterisk. You can leave the rest empty. The user that we are creating is called Reggie, with their username being also Reggie.<br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%204.png"/>
 <br />
 <br />Once you've entered the necessary information, click the OK button to create the user (Reggie). 
@@ -44,14 +44,17 @@ This will open a new window that lets you fill in a number of fields related to 
 
 
 <br />
-Once you click on the newly created account, you will see that where it displays the name of the user, the system says Reggie (Disabled).  <br/>
+Once you click on the newly created account, you will see that where it displays the name of the user, the system says Reggie (Disabled). This is a problem, but it can be easily fixed by enabling it. <br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%205.png"/>
 <br />
 
+  <br />
+Lets try to enable Reggie's account. What happens if you right click on the entry and try to Enable it? The system will not enable an account unless you have a strong password that meets your organizations guidelines. In this case, the password is weak because we haven't set it. Obviously, an empty password is not a strong password. <br/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%205.png"/>
+<br />
 
 <br />
 In this scenario, resetting the browser setting resolved the issue. Remember to always ask questions to get a good understanding of when the issue started, what has changed, and a get a very good description of the issue!  <br/>
-
 
 
 
