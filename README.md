@@ -70,8 +70,6 @@ You can set a password using the Reset password menu option. This will allow the
 Once you've set a strong password, you can retry enabling the account. This time it should work. <br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%209.png"/>
 <br />
-  
-  
 <br />
 As you can see in the above slide, the account (Reggie) has been enabled and you now have the option to disable it. <br/>
 
